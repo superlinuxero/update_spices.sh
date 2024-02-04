@@ -24,6 +24,5 @@ if [ "$XDG_CURRENT_DESKTOP" = "X-Cinnamon" ]; then
 			echo "Las Especias Están Frescas"
 		fi
 	fi
-echo "Ejecutado el `date`" >> /tmp/update_spices.log
 fi
 
